@@ -1,0 +1,7 @@
+{
+  "name": "Royal Aura Banquets",
+  "description": "A premium, luxurious banquet hall experience for weddings, corporate events, and celebrations.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
